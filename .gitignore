@@ -1,4 +1,7 @@
+# Ignore files with Zone.Identifier ADS
 *.*:Zone.Identifier
+
+# Ignore files ending with .un~ and .swp
 *.un~
 *.swp
 
